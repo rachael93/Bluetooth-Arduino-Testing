@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>BluetoothArduinoTesting</name>
+=======
+	<name>MainActivity</name>
+>>>>>>> 7fddfd65051ec24ef52597e462c2d71af64e2128
 	<comment></comment>
 	<projects>
 	</projects>
