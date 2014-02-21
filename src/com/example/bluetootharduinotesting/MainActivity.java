@@ -63,7 +63,6 @@ public class MainActivity extends Activity implements OnClickListener {
 		switch (control.getId()) {
 		case R.id.tgConnect:
 //			Connect();
-			BluetoothSerial bt = new BluetoothSerial();
 			break;
 		case R.id.tgOnOff:
 //			if (OnOff.isChecked()) {
